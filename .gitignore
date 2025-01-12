@@ -1,0 +1,7 @@
+/.idea
+/UserSettings
+projectSettings
+/obj
+/logs
+/library
+*.meta
